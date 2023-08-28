@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **Multi-view clustering, multi-modal learning, causal analysis**
 
 - 📫 How to reach me **dzb20@nudt.edu.cn**
+  
+- 📝 More information about me please see https://dzboop.github.io/
 <!--
 <center> 
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=dzboop" />
